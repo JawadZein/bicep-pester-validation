@@ -1,4 +1,4 @@
-name: Post-deployment validation
+name: Post-deployment validation.
 
 on:
   workflow_dispatch:
